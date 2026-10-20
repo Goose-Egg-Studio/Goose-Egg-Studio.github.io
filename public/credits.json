@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 2,
+  "studio": {
+    "name": "GooseEgg Studio",
+    "intro": "感谢所有让 GooseEgg Studio 的创作成为可能的人。",
+    "closing": "因为有你，每一份热爱都有了回响。",
+    "demo": false,
+    "closingEn": "Because of you, every passion finds its echo."
+  },
+  "creators": [
+    "Section_Square"
+  ],
+  "memberOrder": "input",
+  "groups": [
+    {
+      "id": "current-planning",
+      "section": "制作成员",
+      "title": "策划",
+      "members": [
+        "Remnlar",
+        "Σʃỹriȱη"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Game Design"
+    },
+    {
+      "id": "current-programming",
+      "section": "制作成员",
+      "title": "程序",
+      "members": [
+        "Liiii00",
+        "洛寒兮",
+        "大柯",
+        "洛洃"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Programming"
+    },
+    {
+      "id": "current-operations",
+      "section": "制作成员",
+      "title": "运营",
+      "members": [
+        "天音",
+        "倒海为天",
+        "UIrich·Beck",
+        "王的椰子",
+        "Hurry",
+        "Kơw Hùm",
+        "泡软的方便面"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Operations"
+    },
+    {
+      "id": "current-writing",
+      "section": "制作成员",
+      "title": "文案",
+      "members": [
+        "维生素b",
+        "杂合子yeast",
+        "端粒",
+        "Jerte",
+        "氨基嘌呤",
+        "叶临渊"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Writing"
+    },
+    {
+      "id": "current-audio",
+      "section": "制作成员",
+      "title": "音频",
+      "members": [
+        "Asher",
+        "Aaricsoul",
+        "AiSS",
+        "光",
+        "Xuan K17",
+        "MuzukiComplexes",
+        "SAVING",
+        "watch",
+        "XEROX7",
+        "AFei",
+        "IAMMRGODIE",
+        "AnnyJuly",
+        "SuggestedCopy7",
+        "R_TOP",
+        "Nanchou",
+        "Crystal Cube",
+        "Psi",
+        "ltz咸鱼",
+        "Particulate",
+        "Jiuwenzi",
+        "i3-XePH",
+        "一杯猫头"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Audio"
+    },
+    {
+      "id": "current-charts",
+      "section": "制作成员",
+      "title": "谱面设计",
+      "members": [
+        "深蓝",
+        "氷川秋乃",
+        "CHARARA97",
+        "Gaosheng",
+        "SSuent_",
+        "大柯",
+        "杭杭",
+        "右果Ary",
+        "Armstrong",
+        "茗析",
+        "树穴猪",
+        "Yuxian",
+        "YanY",
+        "Pigpigs",
+        "云缘北岸",
+        "WinterPT",
+        "ctylpy233",
+        "橙小橘",
+        "考拉ろろこ",
+        "QR",
+        "FreMo",
+        "中微子",
+        "TetraCepra",
+        "SincerelyH",
+        "冷小喵QwQ",
+        "IceAge",
+        "awa_az",
+        "芋圆",
+        "MZDDZMQY"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Chart Design"
+    },
+    {
+      "id": "current-ui",
+      "section": "制作成员",
+      "title": "UI ＆ 平面设计",
+      "members": [
+        "ExpLorer",
+        "麦珊",
+        "FishMoy",
+        "夏月Detristy"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "UI & Graphic Design"
+    },
+    {
+      "id": "current-art",
+      "section": "制作成员",
+      "title": "美工",
+      "members": [
+        "奇迹",
+        "Asleep",
+        "初时right",
+        "初雪后的静寂",
+        "银杏Gingko",
+        "玻璃",
+        "恋殇Lianshang",
+        "诺艾",
+        "Sacred",
+        "Hebe朗",
+        "2356",
+        "半界",
+        "月夕花朝",
+        "REDE",
+        "失眠慕斯",
+        "SHIXIAO",
+        "ブウユー",
+        "瑞普",
+        "渗透物",
+        "47",
+        "拟态",
+        "Winderlust",
+        "Sacred大沐"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Art"
+    },
+    {
+      "id": "current-relations",
+      "section": "制作成员",
+      "title": "外部联络",
+      "members": [
+        "Leapsoon",
+        "繁花莳开",
+        "Remnlar"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "External Relations"
+    },
+    {
+      "id": "current-pv",
+      "section": "制作成员",
+      "title": "PV",
+      "members": [
+        "Z_IQinG.",
+        "七绛",
+        "冰川拥抱"
+      ],
+      "sectionEn": "Production Credits",
+      "en": "Promotion Video"
+    },
+    {
+      "id": "external-music",
+      "section": "乐曲鸣谢",
+      "title": "乐曲提供",
+      "members": [
+        "R-03",
+        "Human Servant",
+        "S2WH",
+        "Fox-Mechanicalcat",
+        "Laur",
+        "DJ Myosuke",
+        "void (Mournfinale)",
+        "Nirotiy",
+        "RAI",
+        "Ary-You",
+        "NyanYou",
+        "Sta",
+        "Sakuzyo",
+        "ak+q",
+        "onoken",
+        "佑木いずみ",
+        "Aamuvalo",
+        "CPSQUQI",
+        "Nerovix",
+        "Mourminer",
+        "BingnaiX",
+        "darkxixin",
+        "黒魔",
+        "FlaneZ",
+        "Se-U-Ra",
+        "kyotsugyon",
+        "kuro",
+        "REL",
+        "ValeraP",
+        "Frums",
+        "MYTK",
+        "溝口ゆうま",
+        "大瀬良あい"
+      ],
+      "sectionEn": "Music Acknowledgements",
+      "en": "Music Contributors"
+    },
+    {
+      "id": "early-planning",
+      "section": "早期贡献者",
+      "title": "策划",
+      "members": [
+        "第一个加群的包纸",
+        "kusa"
+      ],
+      "sectionEn": "Early Contributors",
+      "en": "Game Design"
+    },
+    {
+      "id": "early-programming",
+      "section": "早期贡献者",
+      "title": "程序",
+      "members": [
+        "液氦漫步",
+        "屑ForEveR",
+        "Alon"
+      ],
+      "sectionEn": "Early Contributors",
+      "en": "Programming"
+    },
+    {
+      "id": "early-operations",
+      "section": "早期贡献者",
+      "title": "运营",
+      "members": [
+        "翼"
+      ],
+      "sectionEn": "Early Contributors",
+      "en": "Operations"
+    },
+    {
+      "id": "early-audio",
+      "section": "早期贡献者",
+      "title": "音频",
+      "members": [
+        "7FIV6"
+      ],
+      "sectionEn": "Early Contributors",
+      "en": "Audio"
+    },
+    {
+      "id": "early-charts",
+      "section": "早期贡献者",
+      "title": "谱面设计",
+      "members": [
+        "307o",
+        "Air"
+      ],
+      "sectionEn": "Early Contributors",
+      "en": "Chart Design"
+    },
+    {
+      "id": "early-art",
+      "section": "早期贡献者",
+      "title": "美工",
+      "members": [
+        "维c"
+      ],
+      "sectionEn": "Early Contributors",
+      "en": "Art"
+    }
+  ],
+  "links": {
+    "taptap": "https://www.taptap.cn/app/267034",
+    "appStore": "https://apps.apple.com/hk/app/id1662361303",
+    "bilibili": "https://space.bilibili.com/1627025757",
+    "x": "https://x.com/SimpleOfficialD",
+    "googlePlay": "https://play.google.com/store/apps/details?id=com.gooseeggstudio.simple"
+  }
+}
